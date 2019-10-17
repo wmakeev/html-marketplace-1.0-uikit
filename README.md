@@ -10,6 +10,10 @@ cd html-marketplace-1.0-uikit
 npm install
 
 npm run production
+
+cd build
+
+open index.html
 ```
 
 [Примеры верстки](https://wmakeev.github.io/html-marketplace-1.0-uikit/build/index.html)
