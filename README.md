@@ -1,5 +1,21 @@
 # html-marketplace-1.0-uikit
 
+## Сборка
+
+```sh
+git clone git@github.com:moysklad/html-marketplace-1.0-uikit.git
+
+cd html-marketplace-1.0-uikit
+
+npm install
+
+npm run production
+```
+
+[Примеры верстки](https://wmakeev.github.io/html-marketplace-1.0-uikit/build/index.html)
+
+## Описание
+
 **Типография**
 
 HTML заголовки, начиная с `<h1>` до `<h3>`, доступны к использованию. Если нет необходимости использовать именно
